@@ -1,0 +1,25 @@
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\pdfinjector.exe
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\MigraDoc.DocumentObjectModel.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\MigraDoc.Rendering.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\MigraDoc.RtfRendering.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\PdfSharp.Charting.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\PdfSharp.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\de\MigraDoc.Rendering.resources.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\de\MigraDoc.RtfRendering.resources.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Release\de\PdfSharp.resources.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Release\pdfinjector.MainForm.resources
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Release\pdfinjector.exe
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\obj\x86\Release\pdfinjector.MainForm.resources
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\obj\x86\Release\pdfinjector.exe
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\bin\Release\pdfinjector.exe
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\bin\Release\de\MigraDoc.Rendering.resources.dll
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\bin\Release\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\Juan\Proyectos de software\pdfinjector\pdfinjector\bin\Release\de\PdfSharp.resources.dll

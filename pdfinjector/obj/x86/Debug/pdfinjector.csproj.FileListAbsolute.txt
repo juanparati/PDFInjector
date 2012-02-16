@@ -1,0 +1,17 @@
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Debug\pdfinjector.MainForm.resources
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\pdfinjector.exe
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\pdfinjector.pdb
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\PdfSharp.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\de\PdfSharp.resources.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Debug\pdfinjector.exe
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\obj\x86\Debug\pdfinjector.pdb
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\MigraDoc.Rendering.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\PdfSharp.Charting.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Documents and Settings\Usuario\Mis documentos\SharpDevelop Projects\pdfinjector\pdfinjector\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
